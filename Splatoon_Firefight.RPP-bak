@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.69/win64" 1669925979
+<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1669969091
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 134.25875283446726
-  ZOOM 340.14107963522849 22454 0
+  CURSOR 66.09165979761474
+  ZOOM 12.18610642350772 452 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 0.00881986969412
-  SELECTION2 0 0.00881986969412
+  SELECTION 41.3359030261089 43.99321107778734
+  SELECTION2 41.3359030261089 43.99321107778734
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -226,7 +226,525 @@
       CHANMODE 0
       GUID {5DCE561A-1789-4E0C-AF74-164511965194}
       <SOURCE MP3
-        FILE "Sources\Splatoon 3 OST- Now or Never!.mp3" 1
+        FILE "Sources/Splatoon 3 OST- Now or Never!.mp3" 1
+      >
+    >
+  >
+  <TRACK {03C6EEB7-7BD7-5245-8261-765C07508921}
+    NAME Bombardment
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {03C6EEB7-7BD7-5245-8261-765C07508921}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 618 815 445
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 3.49689402116855
+      SNAPOFFS 0
+      LENGTH 5.31696942181117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0D3B5415-9C91-DB4B-9221-3313437E7C15}
+      IID 6
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5096972448555
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {190D5BAD-67A6-F240-8393-ED4AD23B4492}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 43.6300708910804
+      SNAPOFFS 0
+      LENGTH 6.82666666666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DE6B3AF1-BE6A-034F-A11A-D2C12D208208}
+      IID 7
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7DB555A-4D13-A64F-B312-73A6FDF36071}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 51.17216572967209
+      SNAPOFFS 0
+      LENGTH 6.82666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79A092CE-F812-2444-B65E-F6468BB3D32E}
+      IID 8
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B42C54B5-3462-4943-AD5E-BEFFA2E9436C}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 68.81305457464921
+      SNAPOFFS 0
+      LENGTH 6.82666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {286114A2-D21B-4349-A64E-AD4AC67E1984}
+      IID 9
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {75405510-3E5B-B140-819D-98712681C631}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 77.51487125246318
+      SNAPOFFS 0
+      LENGTH 1.63727780863289
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D21CBB5E-7C00-0046-871D-85F18B0D5D9E}
+      IID 12
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.58611287714631
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C073C443-31FA-3C42-B642-1F9C52A0BF48}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 79.71496330781362
+      SNAPOFFS 0
+      LENGTH 3.41431915688716
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E8D12623-ED99-7E42-919E-878092713FA4}
+      IID 13
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94B4DA11-1C55-534D-BC6D-D42B745911B1}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 88.11914929284843
+      SNAPOFFS 0
+      LENGTH 6.82666666666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C1FAAB8-9012-4A4B-897D-24A342280A30}
+      IID 16
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A13285BD-3A93-E144-91F4-99701C8F8BAF}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 101.99898480468697
+      SNAPOFFS 0
+      LENGTH 6.8266666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B4966F8-D500-5145-947E-55B5D550A446}
+      IID 18
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E65CB6A7-EB3B-B345-8A42-563C2F2D3AE8}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.9280030922875
+      SNAPOFFS 0
+      LENGTH 6.82666666666657
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8D83FC75-7389-974B-9F4C-D4D8CFB444E1}
+      IID 20
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2AB7782D-CAC4-F044-919A-7A0C79F70EFD}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 134.19645872263749
+      SNAPOFFS 0
+      LENGTH 6.82666666666663
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E7112A6-3F81-6940-AC94-B2705986E7CD}
+      IID 22
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {50479CFB-2362-664F-A4DD-5DEF53414CF9}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 143.7637772309391
+      SNAPOFFS 0
+      LENGTH 6.82666666666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B19A6B7-117D-E542-AAF8-EDB48574F26B}
+      IID 24
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CBDAA1A-5186-6743-A45B-EF09BD155D97}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 151.96433595234046
+      SNAPOFFS 0
+      LENGTH 6.82666666666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {654E06FD-7EAA-724E-AFC4-AF2B70BF9F39}
+      IID 25
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2597773-F573-7E4A-8685-518A3ADB8518}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 172.57458973002178
+      SNAPOFFS 0
+      LENGTH 6.82666666666671
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {03782ADC-5606-EF40-9E48-5C8396DC686F}
+      IID 26
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A15E909-E4C5-4245-9A12-DFF3A56459C9}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+  >
+  <TRACK {B42EB7F1-2E8E-8147-B24E-28522DD27420}
+    NAME "Bombardment 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B42EB7F1-2E8E-8147-B24E-28522DD27420}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 75.92875837535007
+      SNAPOFFS 0
+      LENGTH 2.81407123358777
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7FA00A0-B792-E047-92BD-1CB9E240DD91}
+      IID 11
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.45820054831366
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {963E024D-537D-F64E-AAF1-FEBCFC758840}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 80.46151633457079
+      SNAPOFFS 0
+      LENGTH 6.82666666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A253EAE8-398B-1942-8A83-D9CE8BE4E528}
+      IID 14
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4B6F682-FC48-5E4F-9F04-35741B439ACE}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 93.8951878381104
+      SNAPOFFS 0
+      LENGTH 6.82666666666665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CABD83EF-B2B0-6349-AC88-DFD70A3E1E56}
+      IID 17
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {762C3391-4A9B-0A4D-88AD-D169C5CC7407}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 106.49840640403994
+      SNAPOFFS 0
+      LENGTH 6.8266666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F18CEF6-4D9D-1943-B841-D5DFE2A47114}
+      IID 19
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E0856CA0-38CF-AC4E-9CD8-EB1A5C553726}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 126.45551833665391
+      SNAPOFFS 0
+      LENGTH 6.82666666666668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B331A3B4-7E09-1545-B37A-BA7929EFEBC9}
+      IID 21
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D214FBC-D3B4-4F49-B8D9-1C882B7BD8CC}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 140.11102098630309
+      SNAPOFFS 0
+      LENGTH 6.82666666666663
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C570B5E-17B4-CE47-82F7-131EE0B45CDE}
+      IID 23
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CAE778D-A974-2D40-9148-13960E025D0A}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
+      >
+    >
+  >
+  <TRACK {15564027-CE95-4B48-9992-9CAEF0178E27}
+    NAME "Bombardment 3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {15564027-CE95-4B48-9992-9CAEF0178E27}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 82.51741718767634
+      SNAPOFFS 0
+      LENGTH 6.82666666666664
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9F0E5B3-8D3C-5D44-8791-7212C0515199}
+      IID 15
+      NAME "SFX_ Splashdown - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57B45BE5-5FEA-9A42-87A1-00EBB228B421}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splashdown - Splatoon 2 OST.mp3" 1
       >
     >
   >
