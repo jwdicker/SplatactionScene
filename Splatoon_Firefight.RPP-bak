@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670016600
+<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670110035
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 0 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 118.73639671437724
-  ZOOM 41.11123577164216 4196 0
-  VZOOMEX 8 0
+  CURSOR 71.58668934240697
+  ZOOM 100.55443703005753 5826 0
+  VZOOMEX 5 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -144,7 +144,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 1 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -254,7 +254,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -722,7 +722,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -761,6 +761,248 @@
         FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
       >
     >
+    <ITEM
+      POSITION 26.50472131442572
+      SNAPOFFS 0
+      LENGTH 0.89802791637329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5D5E2CE-531A-004D-86E4-9E525AAB8065}
+      IID 58
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28A86BE8-2A4D-B946-978E-F6E0776C4788}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.65748456439491
+      SNAPOFFS 0
+      LENGTH 0.89802791637329
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {044772D8-E118-1243-93D8-D4288A319CBA}
+      IID 59
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF3D5668-2A21-7E47-B0B2-AB5D0ACE35F8}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.06104362439721
+      SNAPOFFS 0
+      LENGTH 0.89802791637328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DB459FF-4BA8-224F-9A40-370DDA0A152C}
+      IID 68
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3374E61D-D32B-D34D-9236-24EA948F59CD}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.68083478415232
+      SNAPOFFS 0
+      LENGTH 0.89802791637328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09BCAD87-E641-DF40-9DC5-7812F0AAD9D6}
+      IID 70
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FF4FF7B-E49F-4149-B6B8-FE712947132F}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 40.88890998097615
+      SNAPOFFS 0
+      LENGTH 0.89802791637328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A6FFF122-8213-9C4C-8FD0-BC45991CE07B}
+      IID 81
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E56AEE1C-C414-1E49-8B59-F373CE4C804F}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 48.69882226258157
+      SNAPOFFS 0
+      LENGTH 0.89802791637328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB916737-FB6C-C94E-B8F7-B6BB274EF977}
+      IID 89
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32754890-B8CB-2040-8711-8A5028930206}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 51.17728839310511
+      SNAPOFFS 0
+      LENGTH 0.76636200985467
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E025A34-0CD2-7340-8337-1D205FCB2D25}
+      IID 92
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {43D8776B-7B81-8F42-941F-1C752F7964E0}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 51.96106772136553
+      SNAPOFFS 0
+      LENGTH 0.89802791637328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CE8C5625-A254-D34C-912B-6F59F45B72EC}
+      IID 91
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4E31691-B8BC-DB45-B460-3FDEB3D09C98}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 54.95279000609102
+      SNAPOFFS 0
+      LENGTH 0.89802791637328
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {229AF243-0A8F-9F4B-83C6-4A2DE5C80633}
+      IID 99
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF8D6B17-9AE2-E14D-A17A-0416B7159F7E}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 66.54107165852801
+      SNAPOFFS 0
+      LENGTH 0.89802791637327
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0411398-3AD3-AF4F-8B7A-563E89854F9B}
+      IID 107
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B4B583E-F452-F847-93CD-425F9605D1A4}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 78.96563365694708
+      SNAPOFFS 0
+      LENGTH 0.89802791637325
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {00FB0957-906E-624E-8FFD-8DEA7C4D351A}
+      IID 108
+      NAME "SFX_ Splat Brella - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.92383327291854
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B6B55584-4EA2-BE4F-9F65-1EBA46EC9A43}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
+      >
+    >
   >
   <TRACK {D904F90E-2D82-7446-AC58-E23C8BA0BA35}
     NAME "Machine Guns"
@@ -768,13 +1010,13 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -803,6 +1045,424 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {70ADA874-710F-5E4C-B0A1-CF9FEDDBF2DF}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 27.9313210452305
+      SNAPOFFS 0
+      LENGTH 1.48286107427778
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34E3A2AD-7082-AA4F-B467-E158F7A60B82}
+      IID 62
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29C11AD8-3A99-4C41-8423-85A8C1E524D9}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 31.16890802953948
+      SNAPOFFS 0
+      LENGTH 1.83637682689521
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.084147 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D05E4718-C7A4-A645-A48E-8561A55DE146}
+      IID 63
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68FE4AA9-BF1B-5E44-84E3-D0B7806F2648}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32.92113820938019
+      SNAPOFFS 0
+      LENGTH 1.83637682689522
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.084147 1 1 0 0
+      FADEOUT 1.1 0.01 0.079197 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {980E633F-4ED5-4945-BBC8-02999456C814}
+      IID 64
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3981695-5DC4-F940-8A57-337BA4A7EE2E}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 34.67831819198882
+      SNAPOFFS 0
+      LENGTH 0.66327357090016
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.079197 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA0E0428-FA6F-084E-A62D-841F5D92286B}
+      IID 65
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CF31D2B-0286-664C-9C72-C8ABF7A40D5B}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 37.06659085439636
+      SNAPOFFS 0
+      LENGTH 1.15937106982473
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7573F754-D550-D645-9B4A-B6AA0342413A}
+      IID 69
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74515336-11B3-E842-A4AE-1B636E31EFFE}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 38.24815084421773
+      SNAPOFFS 0
+      LENGTH 1.48665763977525
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9FB84243-D25D-3D4A-B10C-D3B70C463E7A}
+      IID 71
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1FA2259-A2F4-1840-A089-7E68E9F37544}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 41.64575868026627
+      SNAPOFFS 0
+      LENGTH 1.09233310737202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D305650B-E257-7D48-A352-7638D3371B4E}
+      IID 83
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.84563007674866
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D6DB716-E4E9-B443-890D-8CD2FC05B8A6}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.9241333740252
+      SNAPOFFS 0
+      LENGTH 1.73387101841369
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.069669 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E60FA74E-5509-CF4E-86A1-2D0F11FF2019}
+      IID 78
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22BD8699-CFE3-3847-ACDD-246D7338CA4B}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 44.58833511881574
+      SNAPOFFS 0
+      LENGTH 1.393385472463
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.069669 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {59EBD709-9740-DE48-ACB3-6494988CE237}
+      IID 87
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57644B36-84C5-9444-9CC7-8276C227B4DA}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 46.40844489222052
+      SNAPOFFS 0
+      LENGTH 0.67927541782571
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {27577C4F-5F28-A848-A266-DB3CF4BC850E}
+      IID 88
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.84563007674866
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B3F1454-7413-8E4B-AFBE-B5A6015A63E5}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 49.93545186939247
+      SNAPOFFS 0
+      LENGTH 1.00149580833278
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4FB3D4BF-AB6A-7C46-AF77-788A92A33839}
+      IID 90
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AD5709C-B649-964B-94E3-8EFEF158B7EB}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 54.32874015270492
+      SNAPOFFS 0
+      LENGTH 0.18201454057094
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3E41BF0D-DD03-2246-8ACE-99AF71BDD6B7}
+      IID 96
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.50330969879425
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {411D80D3-09EE-BA4F-9689-3FD2B667F379}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 54.64076507939797
+      SNAPOFFS 0
+      LENGTH 0.18201454057093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C4590205-3693-7246-A4BD-7A465057E46D}
+      IID 97
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.50330969879425
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A9C90752-5B92-F748-9B01-B89C6BFE0440}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 54.93198834431148
+      SNAPOFFS 0
+      LENGTH 0.18201454057095
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B210BAF7-301E-E340-95C3-EB760C23A125}
+      IID 98
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.50330969879425
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13B1E5EF-2CEE-0A4A-97AC-6C7BD1291CB9}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 57.54944590643269
+      SNAPOFFS 0
+      LENGTH 0.80424269853775
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64CCBE61-3801-5648-A871-2A30F8CDE047}
+      IID 101
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30F4CCC1-CAA2-8843-9F46-068EF3244F39}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 58.61435224639374
+      SNAPOFFS 0
+      LENGTH 0.80424269853776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79C8E31D-C6D0-2940-9D0E-61047FDB08A2}
+      IID 102
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.45130554434541
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6D80664-10C4-F840-8323-A51B6445FE3B}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 63.10468245218405
+      SNAPOFFS 0
+      LENGTH 1.78980708040761
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.052986 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC31B619-AAC4-A047-9C30-2A59C8F5E3C4}
+      IID 103
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.47927127997679
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C6AAD41-7E81-A745-AF90-08CDDC369A5C}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.84150378273257
+      SNAPOFFS 0
+      LENGTH 1.20160549833116
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.052986 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E80CDDB-C457-AA47-B36F-7EEFBE57FF02}
+      IID 104
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.47927127997679
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {150F4D24-CA56-C440-8F6D-03AED5A39CB0}
+      <SOURCE MP3
+        FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 67.35655034273056
+      SNAPOFFS 0
+      LENGTH 0.18201454057093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {AFB635E7-05EC-DF47-B970-97040CE2AAE0}
+      IID 109
+      NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.50330969879425
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5B90932-A609-2C41-8207-3FF30F510B5B}
       <SOURCE MP3
         FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
       >
