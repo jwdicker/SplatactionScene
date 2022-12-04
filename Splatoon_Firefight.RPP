@@ -1,7 +1,7 @@
-<REAPER_PROJECT 0.1 "6.69/win64" 1670189049
+<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670196434
   <NOTES 0 2
   >
-  RIPPLE 1
+  RIPPLE 0
   GROUPOVERRIDE 0 0 0
   AUTOXFADE 129
   ENVATTACH 3
@@ -16,9 +16,9 @@
   TIMEMODE 0 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 53.74335973478262
-  ZOOM 46.21966345718351 2327 0
-  VZOOMEX 4 392
+  CURSOR 27.67909297052049
+  ZOOM 37.88565429196178 0 0
+  VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -60,8 +60,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 55.3011382778198 54.86842201586503
-  SELECTION2 55.3011382778198 54.86842201586503
+  SELECTION 0 0
+  SELECTION2 0 0
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -207,6 +207,28 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 17.74760387277423
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 6.688009 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9C3230C-21F3-3049-9871-E7ADE1E4CC35}
+      IID 385
+      NAME "Opening — Splatoon 3 Soundtrack.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E90DA257-D5D3-944D-916E-5EAECD3D788C}
+      <SOURCE MP3
+        FILE "Sources/Opening — Splatoon 3 Soundtrack.mp3" 1
+      >
+    >
     <ITEM
       POSITION 18.44430988058406
       SNAPOFFS 0
@@ -693,6 +715,28 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 14.83102970244695
+      SNAPOFFS 0
+      LENGTH 3.61314637123808
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.220802 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {ED06F058-49C2-8C42-9493-7980E6D88014}
+      IID 379
+      NAME Army_Whistle.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7AC755F0-002D-984F-BF14-1D72648D446E}
+      <SOURCE WAVE
+        FILE "Sources/Army_Whistle.wav"
+      >
+    >
     <ITEM
       POSITION 34.78041684745084
       SNAPOFFS 0
@@ -2414,7 +2458,7 @@
       CHANMODE 0
       GUID {C56D6650-09BD-4CCE-A5AA-8E1DF54F97BB}
       <SOURCE MP3
-        FILE "Sources\Voices\Sad talking.mp3" 1
+        FILE "Sources/Voices/Sad talking.mp3" 1
       >
     >
     <ITEM
@@ -2436,7 +2480,7 @@
       CHANMODE 0
       GUID {105C7DA9-4C58-4F06-8C5C-083AF59DDABC}
       <SOURCE MP3
-        FILE "Sources\Voices\Sad talking.mp3" 1
+        FILE "Sources/Voices/Sad talking.mp3" 1
       >
     >
     <ITEM
@@ -2458,7 +2502,7 @@
       CHANMODE 0
       GUID {7D73F39F-4F04-44F8-9F08-4AEA530E157F}
       <SOURCE MP3
-        FILE "Sources\Voices\Sad talking.mp3" 1
+        FILE "Sources/Voices/Sad talking.mp3" 1
       >
     >
     <ITEM
@@ -2480,7 +2524,7 @@
       CHANMODE 0
       GUID {F2EAE81F-E939-4D10-B5ED-6147AB6D4C4D}
       <SOURCE MP3
-        FILE "Sources\Voices\Encouragement.mp3" 1
+        FILE "Sources/Voices/Encouragement.mp3" 1
       >
     >
     <ITEM
@@ -2502,7 +2546,7 @@
       CHANMODE 0
       GUID {3E29E1A8-7AA1-486E-ACBE-9A15EF98D7E9}
       <SOURCE MP3
-        FILE "Sources\Voices\Encouragement.mp3" 1
+        FILE "Sources/Voices/Encouragement.mp3" 1
       >
     >
     <ITEM
@@ -2524,7 +2568,7 @@
       CHANMODE 0
       GUID {350F42E3-FFF5-4CA8-8623-F2836E840BF7}
       <SOURCE MP3
-        FILE "Sources\Voices\Encouragement.mp3" 1
+        FILE "Sources/Voices/Encouragement.mp3" 1
       >
     >
     <ITEM
@@ -2546,7 +2590,7 @@
       CHANMODE 0
       GUID {70315F51-4DBD-4A2E-9582-13245328863F}
       <SOURCE MP3
-        FILE "Sources\Voices\Encouragement.mp3" 1
+        FILE "Sources/Voices/Encouragement.mp3" 1
       >
     >
     <ITEM
@@ -2568,7 +2612,7 @@
       CHANMODE 0
       GUID {39A5EB73-C20B-41A6-A0F2-282CA7F30008}
       <SOURCE MP3
-        FILE "Sources\Voices\Encouragement.mp3" 1
+        FILE "Sources/Voices/Encouragement.mp3" 1
       >
     >
     <ITEM
@@ -2590,7 +2634,7 @@
       CHANMODE 0
       GUID {BFED59C4-D9A3-4D2D-8913-B4E9BDDAC070}
       <SOURCE MP3
-        FILE "Sources\Voices\Listen some of these noises are indescribable.mp3" 1
+        FILE "Sources/Voices/Listen some of these noises are indescribable.mp3" 1
       >
     >
   >
@@ -2641,7 +2685,7 @@
       CHANMODE 0
       GUID {25A4CE89-BB1B-4FE5-8CC2-4C0D1EB16143}
       <SOURCE MP3
-        FILE "Sources\Voices\Blargh.mp3" 1
+        FILE "Sources/Voices/Blargh.mp3" 1
       >
     >
     <ITEM
@@ -2663,7 +2707,7 @@
       CHANMODE 0
       GUID {5B7FE3CE-D6DA-4470-ABE8-4F48FFAC3593}
       <SOURCE MP3
-        FILE "Sources\Voices\Urghl.mp3" 1
+        FILE "Sources/Voices/Urghl.mp3" 1
       >
     >
     <ITEM
@@ -2685,7 +2729,7 @@
       CHANMODE 0
       GUID {67163033-10BC-4A37-8BE0-00B9C3F5AC3C}
       <SOURCE MP3
-        FILE "Sources\Voices\Urghl.mp3" 1
+        FILE "Sources/Voices/Urghl.mp3" 1
       >
     >
     <ITEM
@@ -2707,7 +2751,7 @@
       CHANMODE 0
       GUID {12E7B764-CFE5-46AA-BB69-60D7880F31BF}
       <SOURCE MP3
-        FILE "Sources\Voices\Gah.mp3" 1
+        FILE "Sources/Voices/Gah.mp3" 1
       >
     >
     <ITEM
@@ -2729,7 +2773,7 @@
       CHANMODE 0
       GUID {87A4B15E-3AEB-46AF-9EC3-FAADBCA18FAE}
       <SOURCE MP3
-        FILE "Sources\Voices\Urghl.mp3" 1
+        FILE "Sources/Voices/Urghl.mp3" 1
       >
     >
     <ITEM
@@ -2751,7 +2795,7 @@
       CHANMODE 0
       GUID {358B2B47-3D2D-4943-BC14-87EFA8FF3F5B}
       <SOURCE MP3
-        FILE "Sources\Voices\Double Yelp.mp3" 1
+        FILE "Sources/Voices/Double Yelp.mp3" 1
       >
     >
     <ITEM
@@ -2773,7 +2817,7 @@
       CHANMODE 0
       GUID {D557C012-75A6-43FF-910B-084F85CAE9E4}
       <SOURCE MP3
-        FILE "Sources\Voices\Sad woomy.mp3" 1
+        FILE "Sources/Voices/Sad woomy.mp3" 1
       >
     >
     <ITEM
@@ -2795,7 +2839,7 @@
       CHANMODE 0
       GUID {C2547B6E-EC3A-4D7B-9DC0-5F9165C87AB2}
       <SOURCE MP3
-        FILE "Sources\Voices\Actually Sad Woomy.mp3" 1
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
       >
     >
     <ITEM
@@ -2817,7 +2861,7 @@
       CHANMODE 0
       GUID {A485B272-7849-44E8-96A0-31A8F0F08664}
       <SOURCE MP3
-        FILE "Sources\Voices\Weak Noise.mp3" 1
+        FILE "Sources/Voices/Weak Noise.mp3" 1
       >
     >
   >
@@ -2863,7 +2907,7 @@
       CHANMODE 0
       GUID {5CA3F15F-BFC4-4FD6-925E-6A2A240D6003}
       <SOURCE MP3
-        FILE "Sources\Voices\Owch.mp3" 1
+        FILE "Sources/Voices/Owch.mp3" 1
       >
     >
     <ITEM
@@ -2885,7 +2929,7 @@
       CHANMODE 0
       GUID {558953A1-85D3-48A9-A7C6-C569EFB55F5A}
       <SOURCE MP3
-        FILE "Sources\Voices\Ack.mp3" 1
+        FILE "Sources/Voices/Ack.mp3" 1
       >
     >
     <ITEM
@@ -2907,7 +2951,7 @@
       CHANMODE 0
       GUID {AD0CB7ED-3968-42A2-9FC0-C0FC9CAD30CD}
       <SOURCE MP3
-        FILE "Sources\Voices\Urghl.mp3" 1
+        FILE "Sources/Voices/Urghl.mp3" 1
       >
     >
     <ITEM
@@ -2929,7 +2973,7 @@
       CHANMODE 0
       GUID {B9257F4C-563A-426F-A279-F6175AC33448}
       <SOURCE MP3
-        FILE "Sources\Voices\Owch.mp3" 1
+        FILE "Sources/Voices/Owch.mp3" 1
       >
     >
     <ITEM
@@ -2951,7 +2995,7 @@
       CHANMODE 0
       GUID {2EF19548-0A67-4E3C-9404-46E090EA5F26}
       <SOURCE MP3
-        FILE "Sources\Voices\Blargh.mp3" 1
+        FILE "Sources/Voices/Blargh.mp3" 1
       >
     >
     <ITEM
@@ -2973,7 +3017,7 @@
       CHANMODE 0
       GUID {AB60E949-F5EA-42AC-BF18-F533F4EAE67C}
       <SOURCE MP3
-        FILE "Sources\Voices\fksdlfh.mp3" 1
+        FILE "Sources/Voices/fksdlfh.mp3" 1
       >
     >
     <ITEM
@@ -2995,7 +3039,7 @@
       CHANMODE 0
       GUID {3626B09C-73CE-45CC-8D82-B9AA51BD84E4}
       <SOURCE MP3
-        FILE "Sources\Voices\fksdlfh.mp3" 1
+        FILE "Sources/Voices/fksdlfh.mp3" 1
       >
     >
     <ITEM
@@ -3017,7 +3061,7 @@
       CHANMODE 0
       GUID {268E71BA-E89E-4632-B185-02BF2FCEA1DE}
       <SOURCE MP3
-        FILE "Sources\Voices\uwah.mp3" 1
+        FILE "Sources/Voices/uwah.mp3" 1
       >
     >
     <ITEM
@@ -3039,7 +3083,7 @@
       CHANMODE 0
       GUID {5A488305-7158-4D6D-A286-D39B3AE1CB3A}
       <SOURCE MP3
-        FILE "Sources\Voices\blrp.mp3" 1
+        FILE "Sources/Voices/blrp.mp3" 1
       >
     >
     <ITEM
@@ -3061,7 +3105,7 @@
       CHANMODE 0
       GUID {12474817-173D-4BF7-BBE2-54FCF0A277F3}
       <SOURCE MP3
-        FILE "Sources\Voices\fksdlfh.mp3" 1
+        FILE "Sources/Voices/fksdlfh.mp3" 1
       >
     >
     <ITEM
@@ -3083,7 +3127,7 @@
       CHANMODE 0
       GUID {E41A997B-36C6-4533-BD3F-426A8323F79E}
       <SOURCE MP3
-        FILE "Sources\Voices\Urghl.mp3" 1
+        FILE "Sources/Voices/Urghl.mp3" 1
       >
     >
     <ITEM
@@ -3105,7 +3149,7 @@
       CHANMODE 0
       GUID {D57705F2-B5CF-4726-B71A-2D3A9561CD30}
       <SOURCE MP3
-        FILE "Sources\Voices\Blargh.mp3" 1
+        FILE "Sources/Voices/Blargh.mp3" 1
       >
     >
     <ITEM
@@ -3127,7 +3171,7 @@
       CHANMODE 0
       GUID {346A65E1-168E-44DB-BFDB-922A3251FA64}
       <SOURCE MP3
-        FILE "Sources\Voices\Gah.mp3" 1
+        FILE "Sources/Voices/Gah.mp3" 1
       >
     >
     <ITEM
@@ -3149,7 +3193,7 @@
       CHANMODE 0
       GUID {40CC8A60-73F7-4718-A06C-C34ECF5C5468}
       <SOURCE MP3
-        FILE "Sources\Voices\Gah.mp3" 1
+        FILE "Sources/Voices/Gah.mp3" 1
       >
     >
     <ITEM
@@ -3171,7 +3215,7 @@
       CHANMODE 0
       GUID {5CBAB15F-8B99-41D1-80A0-20C4EA9D0A88}
       <SOURCE MP3
-        FILE "Sources\Voices\Owch.mp3" 1
+        FILE "Sources/Voices/Owch.mp3" 1
       >
     >
     <ITEM
@@ -3193,7 +3237,7 @@
       CHANMODE 0
       GUID {28DA3577-528F-4479-8F78-4D0856ED9D5C}
       <SOURCE MP3
-        FILE "Sources\Voices\blrp.mp3" 1
+        FILE "Sources/Voices/blrp.mp3" 1
       >
     >
     <ITEM
@@ -3215,7 +3259,7 @@
       CHANMODE 0
       GUID {3B9827ED-0744-4113-A0C1-4EF221A7E8FD}
       <SOURCE MP3
-        FILE "Sources\Voices\Urghl.mp3" 1
+        FILE "Sources/Voices/Urghl.mp3" 1
       >
     >
     <ITEM
@@ -3237,7 +3281,7 @@
       CHANMODE 0
       GUID {AB066B7B-4D4D-4464-8B6D-1FA56E1DF323}
       <SOURCE MP3
-        FILE "Sources\Voices\Gah.mp3" 1
+        FILE "Sources/Voices/Gah.mp3" 1
       >
     >
     <ITEM
@@ -3259,7 +3303,7 @@
       CHANMODE 0
       GUID {4CE407B7-2B55-4FAA-8B02-EFFD18D4A204}
       <SOURCE MP3
-        FILE "Sources\Voices\uwah.mp3" 1
+        FILE "Sources/Voices/uwah.mp3" 1
       >
     >
     <ITEM
@@ -3281,7 +3325,7 @@
       CHANMODE 0
       GUID {AB7520BF-B61C-469B-B646-4DD215102A5D}
       <SOURCE MP3
-        FILE "Sources\Voices\fksdlfh.mp3" 1
+        FILE "Sources/Voices/fksdlfh.mp3" 1
       >
     >
   >
@@ -3327,7 +3371,7 @@
       CHANMODE 0
       GUID {7FD8A1FB-9DBC-467F-9F00-59CAB747349B}
       <SOURCE MP3
-        FILE "Sources\Voices\eep.mp3" 1
+        FILE "Sources/Voices/eep.mp3" 1
       >
     >
     <ITEM
@@ -3349,7 +3393,7 @@
       CHANMODE 0
       GUID {31F520D6-8EDF-47B6-858B-54BAD7995C7B}
       <SOURCE MP3
-        FILE "Sources\Voices\blrp.mp3" 1
+        FILE "Sources/Voices/blrp.mp3" 1
       >
     >
     <ITEM
@@ -3371,7 +3415,7 @@
       CHANMODE 0
       GUID {20A933B3-3D98-4D16-BE14-CA12512F9977}
       <SOURCE MP3
-        FILE "Sources\Voices\eep.mp3" 1
+        FILE "Sources/Voices/eep.mp3" 1
       >
     >
     <ITEM
@@ -3393,7 +3437,7 @@
       CHANMODE 0
       GUID {2F572E3E-454F-4157-8924-C0F66F719CCC}
       <SOURCE MP3
-        FILE "Sources\Voices\Blargh.mp3" 1
+        FILE "Sources/Voices/Blargh.mp3" 1
       >
     >
     <ITEM
@@ -3415,7 +3459,7 @@
       CHANMODE 0
       GUID {3F889EF6-7481-4ECD-AA3C-02EE34A33040}
       <SOURCE MP3
-        FILE "Sources\Voices\uwah.mp3" 1
+        FILE "Sources/Voices/uwah.mp3" 1
       >
     >
     <ITEM
@@ -3437,7 +3481,7 @@
       CHANMODE 0
       GUID {D5A99FF7-5275-4924-9B72-CD55DBDA0A76}
       <SOURCE MP3
-        FILE "Sources\Voices\eep.mp3" 1
+        FILE "Sources/Voices/eep.mp3" 1
       >
     >
   >
@@ -3483,7 +3527,7 @@
       CHANMODE 0
       GUID {D929E1CB-1806-47CA-9F14-24B0B77CFC3B}
       <SOURCE MP3
-        FILE "Sources\Voices\Owch.mp3" 1
+        FILE "Sources/Voices/Owch.mp3" 1
       >
     >
     <ITEM
@@ -3505,7 +3549,7 @@
       CHANMODE 0
       GUID {7C82803E-1DFB-4F0F-B3F6-1DD9425EE88D}
       <SOURCE MP3
-        FILE "Sources\Voices\Ack.mp3" 1
+        FILE "Sources/Voices/Ack.mp3" 1
       >
     >
   >
@@ -3521,7 +3565,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -3551,7 +3595,7 @@
       CHANMODE 0
       GUID {3B27FBA2-25AD-479C-8562-F5B08E9A62A3}
       <SOURCE MP3
-        FILE "Sources\Voices\blrp.mp3" 1
+        FILE "Sources/Voices/blrp.mp3" 1
       >
     >
     <ITEM
@@ -3573,7 +3617,7 @@
       CHANMODE 0
       GUID {E6AE8D5C-BC3A-43C1-AC21-DE0ADA90ABCF}
       <SOURCE MP3
-        FILE "Sources\Voices\uwah.mp3" 1
+        FILE "Sources/Voices/uwah.mp3" 1
       >
     >
   >
