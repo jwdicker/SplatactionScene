@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670128738
+<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670129490
   <NOTES 0 2
   >
   RIPPLE 1
@@ -17,8 +17,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 60.58219531463536 7317 0
-  VZOOMEX 5 69
+  ZOOM 24.29761617136765 2436 0
+  VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -72,7 +72,7 @@
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_FX 1
-  MASTER_SEL 0
+  MASTER_SEL 1
   <MASTERPLAYSPEEDENV
     EGUID {36E14F7A-ADF2-5145-B57F-2176C71CC8E6}
     ACT 0 -1
@@ -869,6 +869,28 @@
         FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
       >
     >
+    <ITEM
+      POSITION 121.87870507186592
+      SNAPOFFS 0
+      LENGTH 2.0613439718156
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84A6F379-CE1A-A94F-8616-5FC8D41D5F85}
+      IID 200
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F97C1BD-1C70-E545-A857-2E0A91433C65}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
   >
   <TRACK {F338C368-AD3A-8D4D-9C62-5D9498DAA173}
     NAME Brella
@@ -1456,7 +1478,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2136,7 +2158,7 @@
       FADEIN 1.1 0.01 0.121902 1 1 0 0
       FADEOUT 1 0.278546 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {13E1E683-76A1-E941-8365-86C37FAE5DEB}
       IID 191
       NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
@@ -2147,6 +2169,206 @@
       GUID {43EC92D2-9344-7342-8E09-240E91AE9B65}
       <SOURCE MP3
         FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
+      >
+    >
+  >
+  <TRACK {836B62F2-5CF2-B449-8D5F-76CDBE77D8AA}
+    NAME Bomb
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.31104826827022 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {836B62F2-5CF2-B449-8D5F-76CDBE77D8AA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.97642609191264
+      SNAPOFFS 0
+      LENGTH 2.06134397181558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F61BA90-DCEC-9842-9F9D-DF28CB672273}
+      IID 192
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14610D72-5311-0740-BB9C-6369547F93FA}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.18403191544675
+      SNAPOFFS 0
+      LENGTH 2.06134397181558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AE5C779-4C22-3945-93AF-3BD8BED7014E}
+      IID 193
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {435EA4BF-D557-BC4E-B13F-2DAE4D2AAF36}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 15.46007978861688
+      SNAPOFFS 0
+      LENGTH 2.06134397181559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C4C5BE4F-7876-E841-9282-25230D786C4F}
+      IID 194
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D99BF2B-8A2C-944B-A00F-028ACDA6DDF9}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.45391430496666
+      SNAPOFFS 0
+      LENGTH 2.0613439718156
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE216D38-5F1E-2E47-9A73-73EBAE99C0F5}
+      IID 196
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E3912C3-ECF2-2F4D-B5B6-5AC60C23BDE2}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.36443707581163
+      SNAPOFFS 0
+      LENGTH 2.06134397181557
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62FBCB23-7027-DF4F-99E4-D8E574CC6A64}
+      IID 197
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {685A5E5A-3EE8-5947-8A86-E0EFF14C7565}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 110.0324150161691
+      SNAPOFFS 0
+      LENGTH 2.06134397181559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0136946C-B3BA-634D-9612-1B5BBFBEE248}
+      IID 198
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA0A00F2-8D07-1949-AC7D-2CAF294BA46D}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 113.93951612518855
+      SNAPOFFS 0
+      LENGTH 2.0613439718156
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1217E89-451F-9D46-9301-8A8F1CCEA22D}
+      IID 199
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {332C5950-A154-4646-88A8-D52B53576E18}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.72791573545398
+      SNAPOFFS 0
+      LENGTH 2.06134397181559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A35D772A-8545-2642-908D-E4C1C350D83B}
+      IID 200
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A327260-D5FE-F949-82A3-40D33B5C0C8A}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
       >
     >
   >
