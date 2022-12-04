@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670129490
+<REAPER_PROJECT 0.1 "6.69/win64" 1670185590
   <NOTES 0 2
   >
   RIPPLE 1
@@ -16,8 +16,8 @@
   TIMEMODE 0 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 24.29761617136765 2436 0
+  CURSOR 89.6741889179283
+  ZOOM 45.17822074977714 4633 0
   VZOOMEX 4 0
   USE_REC_CFG 0
   RECMODE 1
@@ -72,7 +72,7 @@
   MASTER_VOLUME 1 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_FX 1
-  MASTER_SEL 1
+  MASTER_SEL 0
   <MASTERPLAYSPEEDENV
     EGUID {36E14F7A-ADF2-5145-B57F-2176C71CC8E6}
     ACT 0 -1
@@ -904,7 +904,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2371,5 +2371,368 @@
         FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
       >
     >
+  >
+  <TRACK {835231A5-8BF1-4185-B4E1-9C417DC46986}
+    NAME "Albert Voices"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {835231A5-8BF1-4185-B4E1-9C417DC46986}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 106.68632748024538
+      SNAPOFFS 0
+      LENGTH 0.8805886195278
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5911A82E-704A-4038-AF56-792D837F4BCC}
+      IID 266
+      NAME "Sad talking.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C56D6650-09BD-4CCE-A5AA-8E1DF54F97BB}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad talking.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 107.56691609977318
+      SNAPOFFS 0
+      LENGTH 0.58915578661257
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 1 0
+      SEL 0
+      IGUID {A17F5549-68ED-467B-A778-D764F4FBE9E5}
+      IID 266
+      NAME "Sad talking.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.8805886195278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {105C7DA9-4C58-4F06-8C5C-083AF59DDABC}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad talking.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 108.15607188638575
+      SNAPOFFS 0
+      LENGTH 1.72218303150136
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6F24290-631D-4E7E-90B7-A13CAC331D09}
+      IID 266
+      NAME "Sad talking.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46974440614036
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D73F39F-4F04-44F8-9F08-4AEA530E157F}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad talking.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.05397124635056
+      SNAPOFFS 0
+      LENGTH 0.49498731001447
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1DA0AE1-B38E-4B0E-BDB5-C324954A64C8}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2EAE81F-E939-4D10-B5ED-6147AB6D4C4D}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.54895855636502
+      SNAPOFFS 0
+      LENGTH 0.49428294354195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 1 0
+      SEL 0
+      IGUID {576399C8-07E8-42E4-B6E7-79E710D9BCF6}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.49498731001447
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E29E1A8-7AA1-486E-ACBE-9A15EF98D7E9}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.04324149990697
+      SNAPOFFS 0
+      LENGTH 0.48686034612946
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FEBEC9A0-F968-461D-94E3-875834657D8B}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.98927025355641
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {350F42E3-FFF5-4CA8-8623-F2836E840BF7}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.53010184603643
+      SNAPOFFS 0
+      LENGTH 0.2079707163218
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 1 0
+      SEL 0
+      IGUID {8D305583-8223-42B5-A927-96412E2F1B52}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.47613059968587
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70315F51-4DBD-4A2E-9582-13245328863F}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.73807256235823
+      SNAPOFFS 0
+      LENGTH 0.77815820413515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 1 0
+      SEL 0
+      IGUID {F0225D7C-BBAE-4D8F-AA84-A2F7DBCE7B8D}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.68410131600767
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39A5EB73-C20B-41A6-A0F2-282CA7F30008}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 116.51623076654505
+      SNAPOFFS 0
+      LENGTH 2.42861678004535
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EAF03CAB-25F9-4AEA-854E-0D3D327EE9D2}
+      IID 287
+      NAME "Listen some of these noises are indescribable.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFED59C4-D9A3-4D2D-8913-B4E9BDDAC070}
+      <SOURCE MP3
+        FILE "Sources\Voices\Listen some of these noises are indescribable.mp3" 1
+      >
+    >
+  >
+  <TRACK {801EF20E-2E0F-4BB2-B19D-A49E9AECD0A1}
+    NAME "Friend Voices"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {801EF20E-2E0F-4BB2-B19D-A49E9AECD0A1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 89.91952652393019
+      SNAPOFFS 0
+      LENGTH 2.4980272108843
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {535BB4F7-E58A-42D8-B578-C83AF2D078D7}
+      IID 265
+      NAME "Double Yelp.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {358B2B47-3D2D-4943-BC14-87EFA8FF3F5B}
+      <SOURCE MP3
+        FILE "Sources\Voices\Double Yelp.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 111.52982958429493
+      SNAPOFFS 0
+      LENGTH 0.5160857306597
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F56B8A4D-4818-4047-8DD2-CA073DE8AD98}
+      IID 272
+      NAME "Sad woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D557C012-75A6-43FF-910B-084F85CAE9E4}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad woomy.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 113.42189554241486
+      SNAPOFFS 0
+      LENGTH 0.65599561404767
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3BF07DA-34EB-4DF4-A51C-BF0B1EFCCBF1}
+      IID 275
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2547B6E-EC3A-4D7B-9DC0-5F9165C87AB2}
+      <SOURCE MP3
+        FILE "Sources\Voices\Actually Sad Woomy.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.77976303687319
+      SNAPOFFS 0
+      LENGTH 1.31839002267574
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3BDCC009-4886-42B4-B477-7261DF9C5376}
+      IID 290
+      NAME "Weak Noise.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A485B272-7849-44E8-96A0-31A8F0F08664}
+      <SOURCE MP3
+        FILE "Sources\Voices\Weak Noise.mp3" 1
+      >
+    >
+  >
+  <TRACK {42B1F84D-580B-49ED-955A-6655A55D4A2A}
+    NAME "Background Voices"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {42B1F84D-580B-49ED-955A-6655A55D4A2A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
   >
 >

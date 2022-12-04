@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670128738
+<REAPER_PROJECT 0.1 "6.69/win64" 1670184706
   <NOTES 0 2
   >
   RIPPLE 1
@@ -16,9 +16,9 @@
   TIMEMODE 0 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 60.58219531463536 7317 0
-  VZOOMEX 5 69
+  CURSOR 105.47732289349413
+  ZOOM 65.05663787967877 6603 0
+  VZOOMEX 4 540
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -144,7 +144,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -190,7 +190,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -248,7 +248,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -520,7 +520,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -676,7 +676,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -869,6 +869,28 @@
         FILE "Sources/SFX/SFX_ Splat Brella - Splatoon 2 OST.mp3" 1
       >
     >
+    <ITEM
+      POSITION 121.87870507186592
+      SNAPOFFS 0
+      LENGTH 2.0613439718156
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84A6F379-CE1A-A94F-8616-5FC8D41D5F85}
+      IID 200
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7F97C1BD-1C70-E545-A857-2E0A91433C65}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
   >
   <TRACK {F338C368-AD3A-8D4D-9C62-5D9498DAA173}
     NAME Brella
@@ -876,7 +898,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -1450,13 +1472,13 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2136,7 +2158,7 @@
       FADEIN 1.1 0.01 0.121902 1 1 0 0
       FADEOUT 1 0.278546 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {13E1E683-76A1-E941-8365-86C37FAE5DEB}
       IID 191
       NAME "SFX_ Splat Dualies - Splatoon 2 OST.mp3"
@@ -2149,5 +2171,480 @@
         FILE "Sources/SFX/SFX_ Splat Dualies - Splatoon 2 OST.mp3" 1
       >
     >
+  >
+  <TRACK {836B62F2-5CF2-B449-8D5F-76CDBE77D8AA}
+    NAME Bomb
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.31104826827022 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {836B62F2-5CF2-B449-8D5F-76CDBE77D8AA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.97642609191264
+      SNAPOFFS 0
+      LENGTH 2.06134397181558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F61BA90-DCEC-9842-9F9D-DF28CB672273}
+      IID 192
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14610D72-5311-0740-BB9C-6369547F93FA}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.18403191544675
+      SNAPOFFS 0
+      LENGTH 2.06134397181558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AE5C779-4C22-3945-93AF-3BD8BED7014E}
+      IID 193
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {435EA4BF-D557-BC4E-B13F-2DAE4D2AAF36}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 15.46007978861688
+      SNAPOFFS 0
+      LENGTH 2.06134397181559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C4C5BE4F-7876-E841-9282-25230D786C4F}
+      IID 194
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D99BF2B-8A2C-944B-A00F-028ACDA6DDF9}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26.45391430496666
+      SNAPOFFS 0
+      LENGTH 2.0613439718156
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE216D38-5F1E-2E47-9A73-73EBAE99C0F5}
+      IID 196
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E3912C3-ECF2-2F4D-B5B6-5AC60C23BDE2}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.36443707581163
+      SNAPOFFS 0
+      LENGTH 2.06134397181557
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62FBCB23-7027-DF4F-99E4-D8E574CC6A64}
+      IID 197
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {685A5E5A-3EE8-5947-8A86-E0EFF14C7565}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 110.0324150161691
+      SNAPOFFS 0
+      LENGTH 2.06134397181559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0136946C-B3BA-634D-9612-1B5BBFBEE248}
+      IID 198
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA0A00F2-8D07-1949-AC7D-2CAF294BA46D}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 113.93951612518855
+      SNAPOFFS 0
+      LENGTH 2.0613439718156
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1217E89-451F-9D46-9301-8A8F1CCEA22D}
+      IID 199
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {332C5950-A154-4646-88A8-D52B53576E18}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.72791573545398
+      SNAPOFFS 0
+      LENGTH 2.06134397181559
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A35D772A-8545-2642-908D-E4C1C350D83B}
+      IID 200
+      NAME "Splat Bomb (SFX) - Splatoon.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.06134397181558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A327260-D5FE-F949-82A3-40D33B5C0C8A}
+      <SOURCE MP3
+        FILE "Sources/SFX/Splat Bomb (SFX) - Splatoon.mp3" 1
+      >
+    >
+  >
+  <TRACK {835231A5-8BF1-4185-B4E1-9C417DC46986}
+    NAME "Albert Voices"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {835231A5-8BF1-4185-B4E1-9C417DC46986}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 106.68632748024538
+      SNAPOFFS 0
+      LENGTH 0.8805886195278
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5911A82E-704A-4038-AF56-792D837F4BCC}
+      IID 266
+      NAME "Sad talking.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C56D6650-09BD-4CCE-A5AA-8E1DF54F97BB}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad talking.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 107.56691609977318
+      SNAPOFFS 0
+      LENGTH 0.58915578661257
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 1 0
+      SEL 0
+      IGUID {A17F5549-68ED-467B-A778-D764F4FBE9E5}
+      IID 266
+      NAME "Sad talking.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.8805886195278
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {105C7DA9-4C58-4F06-8C5C-083AF59DDABC}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad talking.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 108.15607188638575
+      SNAPOFFS 0
+      LENGTH 1.72218303150136
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B6F24290-631D-4E7E-90B7-A13CAC331D09}
+      IID 266
+      NAME "Sad talking.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.46974440614036
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D73F39F-4F04-44F8-9F08-4AEA530E157F}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad talking.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.05397124635056
+      SNAPOFFS 0
+      LENGTH 0.49498731001447
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1DA0AE1-B38E-4B0E-BDB5-C324954A64C8}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2EAE81F-E939-4D10-B5ED-6147AB6D4C4D}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.54895855636502
+      SNAPOFFS 0
+      LENGTH 0.49428294354195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 1 0
+      SEL 0
+      IGUID {576399C8-07E8-42E4-B6E7-79E710D9BCF6}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.49498731001447
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E29E1A8-7AA1-486E-ACBE-9A15EF98D7E9}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.04324149990697
+      SNAPOFFS 0
+      LENGTH 3.59043496186309
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FEBEC9A0-F968-461D-94E3-875834657D8B}
+      IID 276
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.98927025355641
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {350F42E3-FFF5-4CA8-8623-F2836E840BF7}
+      <SOURCE MP3
+        FILE "Sources\Voices\Encouragement.mp3" 1
+      >
+    >
+  >
+  <TRACK {801EF20E-2E0F-4BB2-B19D-A49E9AECD0A1}
+    NAME "Friend Voices"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {801EF20E-2E0F-4BB2-B19D-A49E9AECD0A1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 89.91952652393019
+      SNAPOFFS 0
+      LENGTH 2.4980272108843
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {535BB4F7-E58A-42D8-B578-C83AF2D078D7}
+      IID 265
+      NAME "Double Yelp.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {358B2B47-3D2D-4943-BC14-87EFA8FF3F5B}
+      <SOURCE MP3
+        FILE "Sources\Voices\Double Yelp.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 111.52982958429493
+      SNAPOFFS 0
+      LENGTH 0.5160857306597
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F56B8A4D-4818-4047-8DD2-CA073DE8AD98}
+      IID 272
+      NAME "Sad woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D557C012-75A6-43FF-910B-084F85CAE9E4}
+      <SOURCE MP3
+        FILE "Sources\Voices\Sad woomy.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 113.42189554241486
+      SNAPOFFS 0
+      LENGTH 0.65599561404767
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3BF07DA-34EB-4DF4-A51C-BF0B1EFCCBF1}
+      IID 275
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C2547B6E-EC3A-4D7B-9DC0-5F9165C87AB2}
+      <SOURCE MP3
+        FILE "Sources\Voices\Actually Sad Woomy.mp3" 1
+      >
+    >
+  >
+  <TRACK {42B1F84D-580B-49ED-955A-6655A55D4A2A}
+    NAME "Background Voices"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {42B1F84D-580B-49ED-955A-6655A55D4A2A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
   >
 >
