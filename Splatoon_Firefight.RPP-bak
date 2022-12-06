@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670298550
+<REAPER_PROJECT 0.1 "6.71/OSX64-clang" 1670299547
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 0 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 32.84024943310641
-  ZOOM 439.35814948060289 13733 0
-  VZOOMEX 2 235
+  CURSOR 125.56101035669167
+  ZOOM 157.55209315218539 19256 0
+  VZOOMEX 2 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -2647,7 +2647,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2861,6 +2861,28 @@
         FILE "Sources/Voices/Sad yeah.mp3" 1
       >
     >
+    <ITEM
+      POSITION 126.33281857305438
+      SNAPOFFS 0
+      LENGTH 1.05650793650811
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {A3F88985-4747-B649-A64B-D7CD3CA5790F}
+      IID 728
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.99999999999981 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D7A2D25-02C6-FD42-B95E-7F1ABFC8744A}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
+      >
+    >
   >
   <TRACK {42B1F84D-580B-49ED-955A-6655A55D4A2A}
     NAME Screams
@@ -2874,7 +2896,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -2892,7 +2914,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 0.033347 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {E13D947D-D314-4444-85E0-9EF995E87D19}
@@ -2908,12 +2930,12 @@
       >
     >
     <ITEM
-      POSITION 24.87228739934887
+      POSITION 25.06452807781481
       SNAPOFFS 0
       LENGTH 1.05650793650793
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.033347 1 1 0 0
+      FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
@@ -2936,7 +2958,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 0.014483 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {21E991E6-6F19-4C95-B273-F5029896186E}
@@ -2952,15 +2974,15 @@
       >
     >
     <ITEM
-      POSITION 30.46686210881984
+      POSITION 30.6223596957296
       SNAPOFFS 0
-      LENGTH 1.25145342439413
+      LENGTH 1.25489705866754
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.014483 1 1 0 0
+      FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {940456EB-F9BA-774C-B10B-7BAB09F592DA}
       IID 701
       NAME "Sad woomy.mp3"
@@ -2980,7 +3002,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.032046 1 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {C8E28CEE-483E-48CF-9C36-ACE4A4A301BA}
@@ -2993,6 +3015,28 @@
       GUID {2EF19548-0A67-4E3C-9404-46E090EA5F26}
       <SOURCE MP3
         FILE "Sources/Voices/Blargh.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 39.10866279684088
+      SNAPOFFS 0
+      LENGTH 1.05650793650794
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.032046 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7689F065-1EA2-8C44-9B2C-6E0101C30FD9}
+      IID 704
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABF115A9-688D-8740-859C-79D362765240}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
       >
     >
     <ITEM
@@ -3015,6 +3059,28 @@
       GUID {AB60E949-F5EA-42AC-BF18-F533F4EAE67C}
       <SOURCE MP3
         FILE "Sources/Voices/fksdlfh.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 42.2436909052287
+      SNAPOFFS 0
+      LENGTH 1.29632818001193
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD665B5D-705B-B048-9CAF-EC662871F8BB}
+      IID 705
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6727FEC0-0E67-014A-84B4-CA721BFBAFDA}
+      <SOURCE MP3
+        FILE "Sources/Voices/Encouragement.mp3" 1
       >
     >
     <ITEM
@@ -3062,6 +3128,28 @@
       >
     >
     <ITEM
+      POSITION 49.36145146918437
+      SNAPOFFS 0
+      LENGTH 1.05650793650793
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2E3945E5-0345-CB4F-A570-13B634911251}
+      IID 711
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {165D6F6B-7059-314A-B6A3-3B37DEA3DBCA}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 56.01851714569678
       SNAPOFFS 0
       LENGTH 0.32793650793654
@@ -3081,6 +3169,28 @@
       GUID {5A488305-7158-4D6D-A286-D39B3AE1CB3A}
       <SOURCE MP3
         FILE "Sources/Voices/blrp.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 56.57115997101839
+      SNAPOFFS 0
+      LENGTH 1.25489705866755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81A52ED6-5BD4-4342-8DB0-E4A079672B2C}
+      IID 714
+      NAME "Sad woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {443AC3D0-ECD8-F84C-AF0F-9DD43BF76D57}
+      <SOURCE MP3
+        FILE "Sources/Voices/Sad woomy.mp3" 1
       >
     >
     <ITEM
@@ -3106,6 +3216,28 @@
       >
     >
     <ITEM
+      POSITION 59.03029935145763
+      SNAPOFFS 0
+      LENGTH 1.29632818001191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3161C34-6E46-1B46-BD5C-C4AE0B29ABA4}
+      IID 715
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E84F2514-24A1-D440-A573-ABBB1DEFAAC6}
+      <SOURCE MP3
+        FILE "Sources/Voices/Encouragement.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 64.86736629372079
       SNAPOFFS 0
       LENGTH 0.32793650793651
@@ -3128,25 +3260,25 @@
       >
     >
     <ITEM
-      POSITION 65.97377446775407
+      POSITION 65.31344520506323
       SNAPOFFS 0
-      LENGTH 0.35222222222222
+      LENGTH 1.05650793650794
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {6A315C29-B2B9-46ED-9DF9-7583E9B456C6}
-      IID 308
-      NAME Blargh.mp3
+      IGUID {D74595B9-919A-324F-9D34-7F4AFDCD239F}
+      IID 717
+      NAME "Actually Sad Woomy.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {D57705F2-B5CF-4726-B71A-2D3A9561CD30}
+      GUID {203A33C0-9C2B-C14A-A844-7684058BDA77}
       <SOURCE MP3
-        FILE "Sources/Voices/Blargh.mp3" 1
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
       >
     >
     <ITEM
@@ -3172,25 +3304,25 @@
       >
     >
     <ITEM
-      POSITION 68.68570018098303
+      POSITION 68.0898999143607
       SNAPOFFS 0
-      LENGTH 0.27126984126984
+      LENGTH 1.29632818001191
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {28D1414D-2C42-4211-A873-AC80A3517934}
-      IID 310
-      NAME Gah.mp3
+      IGUID {D3004EAC-749E-9A46-ABEF-5063843C9453}
+      IID 719
+      NAME Encouragement.mp3
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {40CC8A60-73F7-4718-A06C-C34ECF5C5468}
+      GUID {0CACD84F-7C0F-CD4B-BCAF-AD0323DABEE9}
       <SOURCE MP3
-        FILE "Sources/Voices/Gah.mp3" 1
+        FILE "Sources/Voices/Encouragement.mp3" 1
       >
     >
     <ITEM
@@ -3213,6 +3345,28 @@
       GUID {5CBAB15F-8B99-41D1-80A0-20C4EA9D0A88}
       <SOURCE MP3
         FILE "Sources/Voices/Owch.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 72.92790329980413
+      SNAPOFFS 0
+      LENGTH 1.25489705866752
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4FA5A62A-1541-2044-8BD6-26DEF146BA94}
+      IID 721
+      NAME "Sad woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74A7DE17-F5C9-8040-8249-22466ACD3682}
+      <SOURCE MP3
+        FILE "Sources/Voices/Sad woomy.mp3" 1
       >
     >
     <ITEM
@@ -3260,6 +3414,28 @@
       >
     >
     <ITEM
+      POSITION 86.34233595518498
+      SNAPOFFS 0
+      LENGTH 1.29632818001193
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7A11BD1A-2325-1143-9407-3486F7999DAF}
+      IID 724
+      NAME Encouragement.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {103CD884-5D0B-CB4B-9730-701B34FAFE2B}
+      <SOURCE MP3
+        FILE "Sources/Voices/Encouragement.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 88.10442395442711
       SNAPOFFS 0
       LENGTH 0.27126984126984
@@ -3279,6 +3455,28 @@
       GUID {AB066B7B-4D4D-4464-8B6D-1FA56E1DF323}
       <SOURCE MP3
         FILE "Sources/Voices/Gah.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 88.50135966089773
+      SNAPOFFS 0
+      LENGTH 1.05650793650796
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1C29E605-BD38-3C45-9E08-22B66A3EE0C5}
+      IID 725
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {756A009E-8617-E74B-B978-FFE6D061C114}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
       >
     >
     <ITEM
@@ -3304,6 +3502,28 @@
       >
     >
     <ITEM
+      POSITION 94.91366006686467
+      SNAPOFFS 0
+      LENGTH 1.05650793650798
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C9420D2E-372E-6D44-8D7F-3720BA29297C}
+      IID 726
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {367C9BAC-F9AC-114B-B8D4-F87F9472B176}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 98.33816354965096
       SNAPOFFS 0
       LENGTH 0.42734693877549
@@ -3323,6 +3543,28 @@
       GUID {AB7520BF-B61C-469B-B646-4DD215102A5D}
       <SOURCE MP3
         FILE "Sources/Voices/fksdlfh.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 99.01411314784507
+      SNAPOFFS 0
+      LENGTH 1.25489705866757
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8A731FDF-2B37-E142-AA13-C4A492102AB6}
+      IID 727
+      NAME "Sad woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {03496C1B-CBBE-CD41-BB91-675711A281A8}
+      <SOURCE MP3
+        FILE "Sources/Voices/Sad woomy.mp3" 1
       >
     >
   >
@@ -3378,7 +3620,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 0.018344 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {5750BC01-AA42-44BD-BB93-8DC56A039932}
@@ -3394,12 +3636,12 @@
       >
     >
     <ITEM
-      POSITION 28.60778910848692
+      POSITION 28.83868350207323
       SNAPOFFS 0
       LENGTH 1.71406129557903
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.018344 1 1 0 0
+      FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
@@ -3482,25 +3724,25 @@
       >
     >
     <ITEM
-      POSITION 45.31249777995981
+      POSITION 44.22986343514382
       SNAPOFFS 0
-      LENGTH 0.35990929705215
+      LENGTH 1.25489705866755
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {E5116894-9751-4251-891A-97D5092DEBBA}
-      IID 667
-      NAME Octo_awah.mp3
+      IGUID {36B8EB88-09AA-0A46-A8CB-FE620671364E}
+      IID 708
+      NAME "Sad woomy.mp3"
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {9D166C74-FA8A-466E-8079-3BC89E1BC8FA}
+      GUID {A02B6195-4DAB-CB4A-814F-80063E25B607}
       <SOURCE MP3
-        FILE "Sources/Voices/Octo_awah.mp3" 1
+        FILE "Sources/Voices/Sad woomy.mp3" 1
       >
     >
     <ITEM
@@ -3526,6 +3768,94 @@
       >
     >
     <ITEM
+      POSITION 65.97377446775407
+      SNAPOFFS 0
+      LENGTH 0.35222222222222
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6A315C29-B2B9-46ED-9DF9-7583E9B456C6}
+      IID 308
+      NAME Blargh.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D57705F2-B5CF-4726-B71A-2D3A9561CD30}
+      <SOURCE MP3
+        FILE "Sources/Voices/Blargh.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 66.48200630210813
+      SNAPOFFS 0
+      LENGTH 1.25489705866755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F16060DE-2255-D542-9CA2-60031FA9FF56}
+      IID 718
+      NAME "Sad woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A1571E9-0728-5544-BF52-809BE6C2EF74}
+      <SOURCE MP3
+        FILE "Sources/Voices/Sad woomy.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 68.68570018098303
+      SNAPOFFS 0
+      LENGTH 0.27126984126984
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28D1414D-2C42-4211-A873-AC80A3517934}
+      IID 310
+      NAME Gah.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {40CC8A60-73F7-4718-A06C-C34ECF5C5468}
+      <SOURCE MP3
+        FILE "Sources/Voices/Gah.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69.15630852766625
+      SNAPOFFS 0
+      LENGTH 1.05650793650791
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90B471BC-A8D7-EA4E-9311-F3A194E2AAC0}
+      IID 720
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB8407DA-93B9-CC4F-ACFD-D79292C4C995}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 82.38006802718155
       SNAPOFFS 0
       LENGTH 0.58233560090703
@@ -3545,6 +3875,28 @@
       GUID {3F889EF6-7481-4ECD-AA3C-02EE34A33040}
       <SOURCE MP3
         FILE "Sources/Voices/uwah.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 83.15201227788492
+      SNAPOFFS 0
+      LENGTH 1.25489705866755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CB3209F-2867-8945-ACB7-D8514BF8E78E}
+      IID 722
+      NAME "Sad woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7DBC90B-84B6-604F-87C7-288A2CA3DDD9}
+      <SOURCE MP3
+        FILE "Sources/Voices/Sad woomy.mp3" 1
       >
     >
     <ITEM
@@ -3616,6 +3968,28 @@
       >
     >
     <ITEM
+      POSITION 45.31249777995981
+      SNAPOFFS 0
+      LENGTH 0.35990929705215
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E5116894-9751-4251-891A-97D5092DEBBA}
+      IID 667
+      NAME Octo_awah.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D166C74-FA8A-466E-8079-3BC89E1BC8FA}
+      <SOURCE MP3
+        FILE "Sources/Voices/Octo_awah.mp3" 1
+      >
+    >
+    <ITEM
       POSITION 58.66472244216129
       SNAPOFFS 0
       LENGTH 0.41795918367347
@@ -3657,6 +4031,28 @@
       GUID {7C82803E-1DFB-4F0F-B3F6-1DD9425EE88D}
       <SOURCE MP3
         FILE "Sources/Voices/Ack.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 82.16825102178356
+      SNAPOFFS 0
+      LENGTH 1.05650793650796
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {00E4B425-E301-5548-B290-4A4222093FB9}
+      IID 723
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {26ACF9D9-D086-CE44-820B-C604486F6D7B}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
       >
     >
   >
@@ -3750,7 +4146,7 @@
       >
     >
     <ITEM
-      POSITION 58.65468930796928
+      POSITION 58.62245688298811
       SNAPOFFS 0
       LENGTH 0.58233560090703
       LOOP 1
@@ -3769,6 +4165,28 @@
       GUID {E6AE8D5C-BC3A-43C1-AC21-DE0ADA90ABCF}
       <SOURCE MP3
         FILE "Sources/Voices/uwah.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 59.33149308842605
+      SNAPOFFS 0
+      LENGTH 1.05650793650794
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {32E9018F-9F65-CA45-96F6-CAE3559DA277}
+      IID 716
+      NAME "Actually Sad Woomy.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81EBF3C5-287D-2749-9BC7-A9DC3D1221EE}
+      <SOURCE MP3
+        FILE "Sources/Voices/Actually Sad Woomy.mp3" 1
       >
     >
   >
