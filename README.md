@@ -7,6 +7,7 @@ A project in REAPER in which a scene from the movie *War Horse* is overdubbed wi
 - **Splatoon-Firefight.RPP** – REAPER project file  
 - **Sources/** – A folder containing all audio and video source files  
 - **Final Project Source.pdf** – A file containing citations for all sound effects used in the project  
+- **War_Squid.mp4** – Rendered video of the project  
 - **README.md** – This lovely documentation you're reading now  
 
 ### **Important File Note**
